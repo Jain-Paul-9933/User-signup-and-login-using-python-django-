@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.img-thumbnail {
+    border: 1px solid black;
+    height: 70%;
+    border-radius: 5px;
+}
